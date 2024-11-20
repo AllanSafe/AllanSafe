@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Alan, um desenvolvedor web jr apaixonado por tecnologia!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Alan, um desenvolvedor Web  apaixonado por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/devalanferreira/"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"/></a>
 <a href="mailto:alanferreira-@outlook.com"><img src="https://img.icons8.com/?size=48&id=ut6gQeo5pNqf&format=png"/></a>
@@ -32,4 +32,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Alan Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanSafe&show_icons=true&theme=dracula)
 
