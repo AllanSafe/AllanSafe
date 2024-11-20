@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Alan, um desenvolvedor web jr apaixonado por tecnologia!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/devalanferreira/"><img src="https://img.icons8.com/?size=50&id=447&format=png"/></a>
-<a href="mailto:alanferreira-@outlook.com"><img src="https://img.shields.io/badge/-alanferreira-@outlook.com-D14836?style=flat-square&logo=Outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devalanferreira/"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"/></a>
+<a href="mailto:alanferreira-@outlook.com"><img src="https://img.icons8.com/?size=48&id=ut6gQeo5pNqf&format=png"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
