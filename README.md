@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Alan, um desenvolvedor web jr apaixonado por tecnologia!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/devalanferreira/"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devalanferreira/"><img src="https://img.shields.io/badge"/></a>
 <a href="mailto:alanferreira-@outlook.com"><img src="https://img.shields.io/badge/-alanferreira-@outlook.com-D14836?style=flat-square&logo=Outlook&logoColor=white"/></a>
 </p>
 
