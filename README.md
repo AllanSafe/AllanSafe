@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alan Ferreira 😁
+## Bem-vindo(a) ao meu perfil😁
 
  <div>
    <a href="https://github.com/AllanSafe">
@@ -15,6 +15,7 @@
   <img align="center" alt="Unity" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Unreal" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+ 
 </div>
  
 <br>
@@ -23,7 +24,6 @@
  
 <div> 
   <a href="https://instagram.com/allansmiths" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
   <a href = "mailto:alanferreira-@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devalanferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
