@@ -1,22 +1,12 @@
-## Olá eu sou a Alan Ferreira!
+## 👋 Hello! I'm Alan Ferreira
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/allansmiths/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alanferreira-@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devalanferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**About Me:**
+I have a diversified professional career with experiences across different sectors, providing me with a solid skill set. I worked for 1 year as a Software Development Intern, where I began applying my knowledge practically. Then, I spent 2 years as an Administrative Assistant in a bank, gaining valuable corporate and customer service experience. For 4 years, I worked in a call center, handling mobile network maintenance and billing inquiries, which enhanced my problem-solving skills with critical customers and developed my emotional intelligence. Throughout my journey, I've stayed updated in system development by completing various courses, including Game Development in Unity and Unreal, basic C# programming, basic Docker, JS, HTML, CSS, and basic Python. Currently, I'm focusing on web development with React and Node.js, always seeking to improve my skills and contribute to innovative projects.
 
-[![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=allansafe)](https://github.com/allansafe/github-readme-stats)
+**Contact Me:**
+[![Email](https://img.shields.io/badge/Email-Alanferreira--@outlook.com-blue)](mailto:Alanferreira-@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devalanferreira-blue?logo=linkedin)](https://www.linkedin.com/in/devalanferreira/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Snake Animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
