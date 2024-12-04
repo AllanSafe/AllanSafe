@@ -9,4 +9,4 @@ I have a diversified professional career with experiences across different secto
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanSafe&show_icons=true&theme=radical)
 
-![Snake Animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/AllanSafe/AllanSafe/blob/output/github-contribution-grid-snake.svg)
