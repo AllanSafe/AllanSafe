@@ -7,6 +7,6 @@ I have a diversified professional career with experiences across different secto
 [![Email](https://img.shields.io/badge/Email-Alanferreira--@outlook.com-blue)](mailto:Alanferreira-@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devalanferreira-blue?logo=linkedin)](https://www.linkedin.com/in/devalanferreira/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanSafe&show_icons=true&theme=radical)
 
 ![Snake Animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
