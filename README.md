@@ -20,4 +20,7 @@ I have a diversified professional career with experiences across different secto
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 
+## 🐍 Snake Commit Animation
+
+![Snake Animation](https://github.com/AllanSafe/AllanSafe/blob/output/github-contribution-grid-snake.svg)
 
