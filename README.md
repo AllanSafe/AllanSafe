@@ -22,5 +22,4 @@ I have a diversified professional career with experiences across different secto
 
 ## 🐍 Snake Commit Animation
 
-![Snake Animation](https://github.com/AllanSafe/snake-game-commits/blob/output/github-contribution-grid-snake.svg)
-
+![Snake Animation](https://github.com/AllanSafe/snake_game/blob/output/github-contribution-grid-snake.svg)
