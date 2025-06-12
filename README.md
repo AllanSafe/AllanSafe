@@ -5,7 +5,7 @@ I have a diversified professional career with experiences across different secto
 
 **Contact Me:**
 [![Email](https://img.shields.io/badge/Email-Alanferreira--@outlook.com-blue)](mailto:Alanferreira-@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devalanferreira-blue?logo=linkedin)](https://www.linkedin.com/in/devalanferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devalanferreira-blue?logo=linkedin)](https://www.linkedin.com/in/allansafe/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanSafe&show_icons=true&theme=radical)
 
